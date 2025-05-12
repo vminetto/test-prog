@@ -9,7 +9,7 @@ Este repositório contém a implementação de um sistema de **Recrutamento e Se
 
 Atualizar a tela não posso perder o login, quando logado não posso entrar na tela de login e registro.
 
-##NÃO UTILIZE NEXT.JS
+## NÃO UTILIZE NEXT.JS
 
 
 ---
