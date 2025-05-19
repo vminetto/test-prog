@@ -3,9 +3,8 @@
 Este repositório contém a implementação de um sistema de **Recrutamento e Seleção**, com **backend** em Go (framework Gin) e **frontend** em TypeScript (React + Vite). O objetivo é gerir candidatos, vagas e etapas de processo seletivo de forma simples e organizada.
 
 1. Tela de cadastro (EMAIL e SENHA)
-2. Tela de registro (EMAIL e SENHA)
-3. Tela de login
-4. Tela quando logado
+2. Tela de login (EMAIL e SENHA)
+3. Tela quando logado
 
 Atualizar a tela não posso perder o login, quando logado não posso entrar na tela de login e registro.
 
