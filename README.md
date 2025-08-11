@@ -4,7 +4,10 @@ Este repositório contém a implementação de um sistema de **Recrutamento e Se
 
 1. Tela de cadastro (EMAIL e SENHA)
 2. Tela de login (EMAIL e SENHA)
-3. Tela quando logado
+3. Tela quando logado (Minhas vagas / Minhas candidaturas)
+4. Registro de vagas
+5. Cadastro em vaga
+6. Busca de vagas
 
 Atualizar a tela não posso perder o login, quando logado não posso entrar na tela de login e registro.
 
