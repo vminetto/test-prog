@@ -13,18 +13,19 @@ Atualizar a tela não posso perder o login, quando logado não posso entrar na t
 
 ## NÃO UTILIZE NEXT.JS
 
-
 ---
 
 ## 📚 Tecnologias
 
 ### Backend
+
 - [Go](https://golang.org/)  
 - [Gin Web Framework](https://github.com/gin-gonic/gin)  
 - [GORM](https://gorm.io/)  
 - PostgreSQL  
 
 ### Frontend
+
 - [TypeScript](https://www.typescriptlang.org/)  
 - [React](https://reactjs.org/)  
 - [Vite](https://vitejs.dev/)  
